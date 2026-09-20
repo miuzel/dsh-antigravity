@@ -62,6 +62,7 @@
     "url": "https://github.com/LiZhenNet/dsh-antigravity/issues"
   },
   "peerDependencies": {
+    "@deepseek-ai/dsh-attachment": "*",
     "@deepseek-ai/dsh-home-paths": "*",
     "@deepseek-ai/dsh-host-webserver": "*",
     "@deepseek-ai/dsh-llm": "*",
