@@ -106,6 +106,8 @@ Registered model IDs:
 | `gemini-3-flash` | Gemini 3 Flash | Gemini |
 | `gemini-2.5-pro` | Gemini 2.5 Pro | Gemini |
 | `gemini-2.5-flash` | Gemini 2.5 Flash | Gemini |
+| `claude-opus-5-5` | Claude Opus 5.5 | Claude & GPT (3P) |
+| `claude-sonnet-5-5` | Claude Sonnet 5.5 | Claude & GPT (3P) |
 | `claude-opus-4-6` | Claude Opus 4.6 | Claude & GPT (3P) |
 | `claude-sonnet-4-6` | Claude Sonnet 4.6 | Claude & GPT (3P) |
 | `gpt-oss-120b` | GPT-OSS 120B | Claude & GPT (3P) |
