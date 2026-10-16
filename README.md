@@ -18,10 +18,10 @@ talks to the Cloud Code Assist streaming API directly, and provides full bilingu
 
 ## Install into DSH Web
 
-### Option 1: Direct from GitHub
+### Option 1: Direct from GitHub (Maintained Fork)
 
 ```sh
-dsh plugin --profile web add github:LiZhenNet/dsh-antigravity
+dsh plugin --profile web add github:miuzel/dsh-antigravity
 ```
 
 ### Option 2: From Local Release Tarball

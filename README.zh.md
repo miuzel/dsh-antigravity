@@ -16,10 +16,10 @@
 
 ## 安装到 DSH Web
 
-### 方式一：直接从 GitHub 安装
+### 方式一：直接从 GitHub 安装（活跃维护 Fork）
 
 ```sh
-dsh plugin --profile web add github:LiZhenNet/dsh-antigravity
+dsh plugin --profile web add github:miuzel/dsh-antigravity
 ```
 
 ### 方式二：通过本地 Release 包安装
