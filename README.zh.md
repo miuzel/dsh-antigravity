@@ -92,6 +92,7 @@ $DSH_HOME/storages/antigravity-oauth.json
 
 | 模型 ID | 名称 | 额度池 |
 |---|---|---|
+| `gemini-4-hydrogen` | Gemini 4 Hydrogen | Gemini |
 | `gemini-4-carbon` | Gemini 4 Carbon | Gemini |
 | `gemini-4-argon` | Gemini 4 Argon | Gemini |
 | `gemini-3.8-flash` | Gemini 3.8 Flash | Gemini |
