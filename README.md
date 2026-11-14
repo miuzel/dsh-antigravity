@@ -28,7 +28,7 @@ dsh plugin --profile web add github:miuzel/dsh-antigravity
 
 ```sh
 npm run pack:dist
-dsh plugin --profile web add ./dist/dsh-antigravity-0.0.5.tgz
+dsh plugin --profile web add ./dist/miuzel-dsh-antigravity-0.1.0.tgz
 ```
 
 The package declares a DSH bundle patch, so installation automatically mounts
