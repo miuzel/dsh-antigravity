@@ -101,10 +101,6 @@ Registered model IDs:
 | `gemini-4-carbon` | Gemini 4 Carbon | Gemini |
 | `gemini-4-argon` | Gemini 4 Argon | Gemini |
 | `gemini-3.8-flash` | Gemini 3.8 Flash | Gemini |
-| `gemini-3.7-flash` | Gemini 3.7 Flash | Gemini |
-| `gemini-3.6-flash` | Gemini 3.6 Flash | Gemini |
-| `gemini-3.5-flash` | Gemini 3.5 Flash | Gemini |
-| `gemini-3.1-pro` | Gemini 3.1 Pro | Gemini |
 | `gemini-3.1-flash-image` | Gemini 3.1 Flash Image | Gemini |
 | `gemini-3-flash` | Gemini 3 Flash | Gemini |
 | `gemini-2.5-pro` | Gemini 2.5 Pro | Gemini |
