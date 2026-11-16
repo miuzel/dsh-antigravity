@@ -1,20 +1,22 @@
-# dsh-antigravity
+# @miuzel/dsh-antigravity
 
-<p align="center">
-  <img src="./assets/images/chat-model-picker.png" alt="dsh-antigravity" width="100%" />
-</p>
+Google Antigravity / Cloud Code Assist 模型提供程序。这是原仓库的 fork，包含关键问题修复。
 
-English | [简体中文](./README.zh.md)
+> **鸣谢**：此版本基于 [miuzel/dsh-antigravity](https://github.com/miuzel/dsh-antigravity) 开发。感谢原作者 miuzel 的初始工作。由于原项目暂时未维护，此 fork 目前保持对最新模型和 API 的兼容性修复。
 
-Google Antigravity / Cloud Code Assist model provider for
-[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness).
+## 安装
 
-This is a DSH Web plugin. It registers a DSH `LlmAdapter`
-under provider route `antigravity`, stores OAuth credentials under DSH home,
-talks to the Cloud Code Assist streaming API directly, and provides full bilingual (English & Simplified Chinese) i18n support in the Web settings page.
+```sh
+dsh plugin --profile web add @miuzel/dsh-antigravity
+```
 
-> Unofficial integration. This project is not affiliated with or endorsed by
-> Google. Use it only with accounts and services you are authorized to access.
+## Changelog
+
+### 0.1.1 (2026-11-16)
+- 修复：`requestType: "agent"` 触发上游 429 额度限制。
+- 修复：修复客户端模块 ID 与包名不匹配的问题。
+- 修复：修复 `message.content` 字符串解析导致内容丢失的问题。
+- 优化：包重命名为 `@miuzel/dsh-antigravity`。
 
 ## Install into DSH Web
 
