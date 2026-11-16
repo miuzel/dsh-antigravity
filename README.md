@@ -2,7 +2,7 @@
 
 Google Antigravity / Cloud Code Assist 模型提供程序。这是原仓库的 fork，包含关键问题修复。
 
-> **鸣谢**：此版本基于 [miuzel/dsh-antigravity](https://github.com/miuzel/dsh-antigravity) 开发。感谢原作者 miuzel 的初始工作。由于原项目暂时未维护，此 fork 目前保持对最新模型和 API 的兼容性修复。
+> **鸣谢**：此版本基于 [LiZhenNet/dsh-antigravity](https://github.com/LiZhenNet/dsh-antigravity) 开发。感谢原作者 LiZhenNet 的初始工作。由于原项目暂时未维护，此 fork 目前保持对最新模型和 API 的兼容性修复。
 
 ## 安装
 
