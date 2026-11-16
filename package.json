@@ -1,6 +1,6 @@
 {
   "name": "@miuzel/dsh-antigravity",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Google Antigravity / Cloud Code Assist model provider for DeepSeek Harness",
   "type": "module",
   "main": "lib/index.js",
